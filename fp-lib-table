@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "AT25SL641-MHE-T")(type "KiCad")(uri "${KIPRJMOD}/AT25SL641-MHE-T.pretty")(options "")(descr ""))
+)
